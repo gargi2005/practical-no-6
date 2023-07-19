@@ -1,3 +1,4 @@
+<html>
 <body>
     <div class="gallery">
         <a target="_blank" href="img_kedarnath.jpg">
